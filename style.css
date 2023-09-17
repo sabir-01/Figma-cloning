@@ -1,0 +1,45 @@
+.help-button{
+    background: #75BF7A;
+border: none;
+
+}
+.logo img{
+    width: 50%;
+}
+body{
+    font-family: montserrat;
+  }
+.box1{
+   
+}
+.box2 img{ 
+    height: 480px;
+    
+}
+.container2{
+    background: #75BF7A;
+    min-height: 270px;
+
+}
+.headcolor{
+    color: #75BF7A;
+
+}
+.apna{
+    color: #75BF7A;
+font-size: 60px;
+}
+.img-thumbnail {
+text-align: center;
+}
+
+
+@media screen and (max-width:350px) {
+    
+
+
+
+
+}
+
+
